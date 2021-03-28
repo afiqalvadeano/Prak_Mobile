@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="text_1">pagi yang cerah di hari minggu saat ku bersepeda denganmu</string>
+    <string name="text_2">buku ini adalah gudang ilmu yang dapat menuntunmu menuju masadepan mu</string>
+</resources>
